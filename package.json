@@ -1,0 +1,65 @@
+{
+  "name": "eyes-on-lichen",
+  "displayName": "Eyes on Lichen",
+  "description": "A soothing collection of light themes inspired by natural lichen colors, designed for comfortable coding",
+  "version": "0.0.1",
+  "publisher": "BrandevDevdev",
+  "author": {
+    "name": "Bran"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/your-username/eyes-on-lichen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/eyes-on-lichen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/eyes-on-lichen/issues"
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "lichen",
+    "natural",
+    "eye-friendly",
+    "pastel",
+    "green",
+    "yellow",
+    "rust",
+    "comfortable"
+  ],
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#e3f0d5",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eyes on Lichen - Forest",
+        "uiTheme": "vs",
+        "path": "./themes/Forest-color-theme.json"
+      },
+      {
+        "label": "Eyes on Lichen - Wall",
+        "uiTheme": "vs",
+        "path": "./themes/Wall-color-theme.json"
+      },
+      {
+        "label": "Eyes on Lichen - Rust",
+        "uiTheme": "vs",
+        "path": "./themes/Rust-color-theme.json"
+      },
+      {
+        "label": "Bran",
+        "uiTheme": "vs",
+        "path": "./themes/Bran-color-theme.json"
+      }
+    ]
+  }
+}
