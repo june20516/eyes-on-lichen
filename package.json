@@ -8,6 +8,7 @@
     "name": "Bran"
   },
   "license": "MIT",
+  "icon": "icon.png",
   "homepage": "https://github.com/your-username/eyes-on-lichen",
   "repository": {
     "type": "git",
