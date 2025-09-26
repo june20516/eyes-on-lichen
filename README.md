@@ -69,7 +69,7 @@ These themes work with all programming languages supported by VS Code, with opti
 
 ## 🐛 Issues & Feedback
 
-Found a bug or have a suggestion? Please open an issue on our [GitHub repository](https://github.com/your-username/eyes-on-lichen).
+Found a bug or have a suggestion? Please open an issue on our [GitHub repository](https://github.com/june20516/eyes-on-lichen).
 
 ## 📄 License
 

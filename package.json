@@ -2,20 +2,20 @@
   "name": "eyes-on-lichen",
   "displayName": "Eyes on Lichen",
   "description": "A soothing collection of light themes inspired by natural lichen colors, designed for comfortable coding",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "BrandevDevdev",
   "author": {
     "name": "Bran"
   },
   "license": "MIT",
   "icon": "icon.png",
-  "homepage": "https://github.com/your-username/eyes-on-lichen",
+  "homepage": "https://github.com/june20516/eyes-on-lichen",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/eyes-on-lichen.git"
+    "url": "https://github.com/june20516/eyes-on-lichen.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/eyes-on-lichen/issues"
+    "url": "https://github.com/june20516/eyes-on-lichen/issues"
   },
   "keywords": [
     "theme",
