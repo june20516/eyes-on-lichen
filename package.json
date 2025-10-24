@@ -55,11 +55,6 @@
         "label": "Eyes on Lichen - Rust",
         "uiTheme": "vs",
         "path": "./themes/Rust-color-theme.json"
-      },
-      {
-        "label": "Bran",
-        "uiTheme": "vs",
-        "path": "./themes/Bran-color-theme.json"
       }
     ]
   }
