@@ -4,6 +4,19 @@ All notable changes to the "Eyes on Lichen" extension will be documented in this
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.0.7] - 2025-12-18
+
+### Improved
+- **Forest Theme**: Enhanced search highlight colors for better visibility and clarity
+  - Current search match now uses golden accent color for clear distinction
+  - Other search matches maintain subtle orange highlight
+- **Forest Theme**: Refined selection highlight colors
+  - Selection highlight changed to natural peach tone for better harmony
+- **Forest Theme**: Improved word highlight colors
+  - Semantic symbol highlights now use refreshing mint/teal colors
+  - Better integration with the natural Forest theme palette
+- Removed unnecessary foreground color settings for cleaner configuration
+
 ## [0.0.1] - 2024-09-24
 
 ### Added
